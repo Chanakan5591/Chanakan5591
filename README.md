@@ -6,5 +6,5 @@
 - ⚡ Fun Fact: I love to play piano (but not very good at it :l)
 
 ### Connect with me:
-<img align="left" alt="chanakancloud.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website](https://chanakancloud.live)
+<img align="left" alt="chanakancloud.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website](https://chanakancloud.live)</br>
 <img align="left" alt="chanakan5591@chanakancloud.live" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />[email](mailto:chanakan5591@chanakancloud.live)
