@@ -11,4 +11,4 @@
 
 ---
 
-[![Chanakan5591's github stats](https://github-readme-stats.vercel.app/api?username=Chanakan5591)]
+![Chanakan5591's github stats](https://github-readme-stats.vercel.app/api?username=Chanakan5591)
