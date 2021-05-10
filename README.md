@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there👋, I'm Chanakan Mungtin
 
-<!--
-**Chanakan55991/Chanakan55991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student who love to code.
+- 🧠 I'm currently learning about C++
+- ⚡ Fact About me: ~~*btw I use arch*~~ I can code in plenty of languages but only when I have search engine with me 😆
 
-Here are some ideas to get you started:
+## My Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Chanakan55991's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanakan55991&show_icons=true&theme=dark)
+
+<br />
+<br />
+
+---
