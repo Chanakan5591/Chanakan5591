@@ -6,7 +6,7 @@
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=chanakan55991)
 
-- 🔭 I’m currently working on [VisuaThought](/VisuaThought)
+- 🔭 I’m currently working on [VisuaThought](https://github.com/Chanakan55991/VisuaThought)
 
 - 🌱 I’m currently learning **Rust, tRPC, and Embeddings**
 
