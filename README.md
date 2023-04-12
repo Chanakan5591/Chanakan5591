@@ -6,9 +6,9 @@
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=chanakan55991)
 
-- 🔭 I’m currently working on Gyfur (Private at the moment)
+- 🔭 I’m currently working on [VisuaThought](/VisuaThought)
 
-- 🌱 I’m currently learning **Astro, Flutter**
+- 🌱 I’m currently learning **Rust, tRPC, and Embeddings**
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/chanakan55991)
 
