@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Chanakan Mungtin</h1>
+<h1 align="center">Hi 👋, I'm Chanakan Moongthin</h1>
 
 ## A passionate developer from Thailand
 
 ![Profile View](https://komarev.com/ghpvc/?username=chanakan55991&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-![github trophy](https://github-profile-trophy.vercel.app/?username=chanakan55991)
+![github trophy](https://github-profile-trophy.vercel.app/?username=chanakan5591)
 
-- 🔭 I’m currently working on [VisuaThought](https://github.com/Chanakan55991/VisuaThought)
+- 🔭 I’m currently working on private competition project.
 
-- 🌱 I’m currently learning **Rust, tRPC, and Embeddings**
+- 🌱 I’m currently learning **Valorant** (lol)
 
-- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/chanakan55991)
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/chanakan5591)
 
-- 📝 I regularly write blogs on [https://blogs.chanakancloud.net](https://blogs.chanakancloud.net)
+- 📝 I wrote some blogs on [https://blogs.chanakancloud.net](https://blogs.chanakancloud.net)
 
-- 📫 you can reach me on **chanakan5591@chanakancloud.net**
+- 📫 you can reach me on **me@chanakancloud.net**
 
 ## Connect with me:
 
@@ -48,12 +48,9 @@ Link to all my things: https://bio.chanakancloud.net
 ![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Vault](https://img.shields.io/static/v1?style=for-the-badge&message=Vault&color=000000&logo=Vault&logoColor=FFFFFF&label=)
-### Support:
-<p><a href="https://ko-fi.com/chanakan5591"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chanakan5591" /></a></p><br><br>
-<br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=chanakan55991&show_icons=true&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=chanakan5591&show_icons=true&locale=en)
 
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanakan55991&")
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=chanakan5591&")
 
 
