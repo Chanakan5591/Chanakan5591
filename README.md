@@ -14,7 +14,7 @@
 
 - 📝 I wrote some blogs on [https://blogs.chanakancloud.net](https://blogs.chanakancloud.net)
 
-- 📫 you can reach me on **me@chanakancloud.net**
+- 📫 you can reach me on **chanakan5591@chanakancloud.net** (I will probably respond you back via G-Mail for now)
 
 ## Connect with me:
 
