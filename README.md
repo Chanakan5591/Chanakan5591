@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on private competition project.
 
-- 🌱 I’m currently learning **Valorant** (lol)
+- 🌱 I’m currently learning **deeper side of Machine Learning**
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/chanakan5591)
 
